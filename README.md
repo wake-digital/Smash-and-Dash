@@ -2,6 +2,9 @@
 
 Indie project made in python using the library Pygame
 
+NOTE: This project was made before vibe-coding was a thing B) 
+(And on a serious note, over all, it was pretty much just an excuse to learn some python.)
+
 Versions:
 pygame 2.1.2 (SDL 2.0.18, Python 3.10.8)
 
